@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dawa", "Dawa\Dawa.csproj", "{DF659F3D-3679-4FE6-902A-215B07A1FDC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF659F3D-3679-4FE6-902A-215B07A1FDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF659F3D-3679-4FE6-902A-215B07A1FDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF659F3D-3679-4FE6-902A-215B07A1FDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF659F3D-3679-4FE6-902A-215B07A1FDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF040890-8D50-43E2-B3DC-FF37D2A04DB9}
+	EndGlobalSection
+EndGlobal
